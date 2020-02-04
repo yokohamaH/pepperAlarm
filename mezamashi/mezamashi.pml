@@ -21,6 +21,9 @@
         <File name="main" src="html/scripts/main.js" />
         <File name="preload" src="html/scripts/preload.js" />
         <File name="home" src="html/stylesheets/home.css" />
+        <File name="" src=".DS_Store" />
+        <File name="" src="html/.DS_Store" />
+        <File name="" src="html/images/.DS_Store" />
     </Resources>
     <Topics />
     <IgnoredPaths />
