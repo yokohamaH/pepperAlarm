@@ -1,0 +1,34 @@
+body{
+	margin:0;
+	background-color: #ffffff;
+}
+
+.image_back {
+	background-image: url('../images/sample.png');
+}
+
+#image_yes {
+	position: fixed;
+	top: 600px;
+	left: 20px;
+}
+
+#image_no {
+	position: fixed;
+	top: 600px;
+	left: 500px;
+}
+
+#image_yes_on {
+	position: fixed;
+	top: 600px;
+	left: 20px;
+	visibility : hidden;
+}
+
+#image_no_on{
+	position: fixed;
+	top: 600px;
+	left: 500px;
+	visibility : hidden;
+}
