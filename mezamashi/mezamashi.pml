@@ -8,7 +8,7 @@
     <Resources />
     <Topics />
     <IgnoredPaths />
-    <Translations auto-fill="ja_JP">
+    <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
         <Translation name="translation_ja_JP" src="translations/translation_ja_JP.ts" language="ja_JP" />
     </Translations>
