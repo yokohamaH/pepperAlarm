@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="mezamashi-8b9402">
+<package version="0.0.0" uuid="stopalarm-83f131">
  <names>
-  <name lang="en_US">mezamashi</name>
-  <name lang="ja_JP">目覚まし</name>
+  <name lang="en_US">Stopalarm</name>
+  <name lang="ja_JP">アラーム停止</name>
  </names>
  <supportedLanguages>
-  <language>en_US</language>
   <language>ja_JP</language>
+  <language>en_US</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
@@ -15,6 +15,10 @@
  <contents>
   <behaviorContent path="behavior_1">
    <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="mezamashi/behavior_1">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
