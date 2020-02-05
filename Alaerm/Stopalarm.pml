@@ -44,7 +44,10 @@
         <File name="home" src="html/stylesheets/home.css" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="mezamashi/translations" />
+        <Path src="mezamashi/translations/translation_en_US.ts" />
+    </IgnoredPaths>
     <Translations auto-fill="ja_JP">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
         <Translation name="translation_ja_JP" src="translations/translation_ja_JP.ts" language="ja_JP" />

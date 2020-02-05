@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="stopalarm-83f131">
+<package uuid="stopalarm-83f131" version="0.0.0">
  <names>
   <name lang="en_US">Stopalarm</name>
   <name lang="ja_JP">アラーム停止</name>
